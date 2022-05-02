@@ -1,0 +1,9 @@
+<section>
+  <div>
+    <h5>Language</h5>
+  </div>
+
+  <ng-container *ngIf="languages && languages.length > 0">
+    <app-language *ngFor="let item of languages" [data]="item"></app-language>
+  </ng-container>
+</section>

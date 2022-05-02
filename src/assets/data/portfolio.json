@@ -1,0 +1,134 @@
+{
+  "experiences": [
+    {
+      "title": "Web Developer (Angular) ",
+      "companyName": "Dadekavan",
+      "type": "Full-Time",
+      "date": "Aug 2021 - Present · 9 mos",
+      "location": "Tehran Province, Iran",
+      "descriptions": [
+        "Develop some modules",
+        "Refactor & maintenance current codes"
+      ]
+    },
+    {
+      "title": "Full StackDeveloper",
+      "companyName": "Research Center for Developing Advanced Technologies",
+      "type": "Full-Time",
+      "date": "Aug 2021 - Present · 9 mos",
+      "location": "Tehran Province, Iran",
+      "descriptions": [
+        "Design BI dashboard for analyze data usign d3.js",
+        "Design ,engineer and consulting graph-document database (orientdb) with indexing on nodes-edges",
+        "Implement a complex service-oriented architecture with node js and wcf",
+        "Develope Rest Api with nodejs and redis caching for querying on elasticsearch db",
+        "Produce and development of desktop apps with C# language and SqlServer"
+      ]
+    },
+    {
+      "title": "Web Developer",
+      "companyName": "Iran Cyber Monitor",
+      "type": "Part-Time",
+      "date": "Aug 2021 - Present · 9 mos",
+      "location": "Tehran Province, Iran",
+      "descriptions": [
+        "Design, maintain, document and implement custom Angular single page and e-Commerce websites for its clients. Responsibilities included all aspects of web development to analytics, graphics, ui and ux"
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "school": "Jamshid Kashani",
+      "degree": "B.S. SoftwareEngineering",
+      "sDate": "may 2011",
+      "eDate": "may 2013"
+    },
+    {
+      "school": "Shamsipour",
+      "degree": "A.A. Computer Engineering",
+      "sDate": "may 2009",
+      "eDate": "may 2011"
+    }
+  ],
+  "licences": [],
+  "skills": [
+    {
+      "title": "html"
+    },
+    {
+      "title": "css"
+    },
+    {
+      "title": "js"
+    },
+    {
+      "title": "angular"
+    },
+    {
+      "title": "bootstrap"
+    },
+    {
+      "title": "orientdb"
+    },
+    {
+      "title": "redis"
+    },
+    {
+      "title": "git"
+    },
+    {
+      "title": "azure devops"
+    },
+    {
+      "title": "jira"
+    },
+    {
+      "title": "postman"
+    },
+    {
+      "title": "restful"
+    }
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "",
+      "img": ""
+    },
+    {
+      "name": "Skype",
+      "url": "",
+      "img": ""
+    },
+    {
+      "name": "StackOverFlow",
+      "url": "",
+      "img": ""
+    },
+    {
+      "name": "GitHub",
+      "url": "",
+      "img": ""
+    }
+  ],
+  "contact-info": [
+    {
+      "img": "",
+      "title": "hossein.ganjyar@gmail.com"
+    },
+    {
+      "img": "",
+      "title": "(+98)99 202434 61"
+    },
+    {
+      "img": "",
+      "title": "Tehran, Iran"
+    }
+  ],
+  "language": [
+    {
+      "name": "ielts",
+      "score": "6.0"
+    }
+  ]
+}
